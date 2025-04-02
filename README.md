@@ -1,6 +1,6 @@
 ![School Logo](logo.png)
 
-# College of Software Engineering  
+# College of Engineering  
 ## Department of Software Engineering  
 ### Software Engineering Methodologies (SEM)  
 
